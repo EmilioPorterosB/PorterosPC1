@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PorterosPC1</string>
+    <string name="TextView">SIGN IN</string>
+    <string name="etEmail">Enter email</string>
+    <string name="etPassword">Enter password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtPlayers">PLAYERS</string>
+    <string name="btnReturn">Return to Login</string>
+</resources>
